@@ -1,0 +1,14 @@
+# binary
+bin/
+
+# terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+# aws
+functions/
+
+# credentials
+credentials/
+
